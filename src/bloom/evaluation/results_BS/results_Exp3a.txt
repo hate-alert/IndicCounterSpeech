@@ -1,0 +1,14 @@
+Model :  Precision Recall F1-score
+counter_bloom_hindi :  0.6853 0.6684 0.6733
+counter_bloom_bengali :  0.6885 0.6779 0.6817
+counter_mt5_bengali_large :  0.7023 0.6857 0.6926
+counter_mt5_bengali_flax :  0.687 0.6878 0.686
+counter_mt5_hindi_large :  0.6956 0.6905 0.6897
+counter_mt5_hindi_doc2query :  0.697 0.6872 0.6889
+counter_mt5_hindi_doc2query_final :  0.6804 0.6864 0.6802
+counter_gpt2_bengali_final :  0.5548 0.608 0.5759
+counter_gpt2_bengali :  0.6129 0.6457 0.6266
+counter_gpt2_hindi_final :  0.6629 0.6894 0.6732
+counter_gpt2_hindi :  0.5976 0.658 0.6202
+counter_mgpt_hindi :  0.6577 0.6505 0.6509
+counter_mgpt_bengali :  0.6119 0.6007 0.6044
